@@ -1,8 +1,11 @@
+<div align="center" >
+
 | [دیدن](open) - [نوشتن](new) - [آپلود](up) |**STYLE**|
 |:---:|:---:|
 |[<img src="https://raw.githubusercontent.com/panisa-cake/panisa-cake.github.io/main/img/png/bootstrap.png" width="26" height="26" /> - bootstrap-icons](font/bootstrap-icons.css) <br /> [<img src="https://raw.githubusercontent.com/panisa-cake/panisa-cake.github.io/main/img/png/font-awesome.png" width="26" height="26" />‌ - font-awesome](fontawesome-free-6.1.2-web/css/all.css)|**FONT STYLE**|
 |----|**FONTS**|
 |[نمایش پوشه]()|**CSS-ALL**|
+</div>
 
 ---
 
