@@ -1,6 +1,6 @@
 <div align="center" >
 
-| [دیدن](open) - [نوشتن](new) - [آپلود](up) |**STYLE**|
+| [دیدن](https://github.com/panisa-cake/panisa-cake) - [نوشتن](https://github.com/panisa-cake/panisa-cake/new) - [آپلود](https://github.com/panisa-cake/panisa-cake/upload) |**STYLE**|
 |:---:|:---:|
 |[<img src="https://raw.githubusercontent.com/panisa-cake/panisa-cake.github.io/main/img/png/bootstrap.png" width="26" height="26" /> - bootstrap-icons](font/bootstrap-icons.css) <br /> [<img src="https://raw.githubusercontent.com/panisa-cake/panisa-cake.github.io/main/img/png/font-awesome.png" width="26" height="26" />‌ - font-awesome](fontawesome-free-6.1.2-web/css/all.css)|**FONT STYLE**|
 |----|**FONTS**|
