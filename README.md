@@ -14,4 +14,6 @@
  - 🌱 در حال حاضر مشغول یادگیری انواع شیرینی و دسر هستم
  - 🌍 [دیدن وبسایت](https://panisa-cake.github.io/)[‌‌...](https://github.com/panisa-cake/panisa-cake.github.io/)   
 
-[1](https://github.com/panisa-cake/panisa-cake/) 2
+
+|[`1`](https://github.com/panisa-cake/panisa-cake/)| `2`|
+|:---:|:---:|
